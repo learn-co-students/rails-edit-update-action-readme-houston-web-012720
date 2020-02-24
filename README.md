@@ -7,7 +7,7 @@ be to integrate an edit/update action. As you may have noticed, there is a trend
 in Rails conventions where the logic for rendering a form is separate from the
 action that manages the database record alteration. For example:
 
-- The `new` action in the controller simply renders the `new` form
+- The `new` action in the controller simply renders the `new` form 
 
 - The `create` action is what actually handles the process of inserting the form
   data into the database
